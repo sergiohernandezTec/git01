@@ -11,4 +11,6 @@ add_executable(git01 main.cpp
         ClaseAlamilla.cpp
         ClaseAlamilla.h
         Gmail.cpp
-        Gmail.h)
+        Gmail.h
+        Quinto.cpp
+        Quinto.h)
