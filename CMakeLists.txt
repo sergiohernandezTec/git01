@@ -7,4 +7,6 @@ add_executable(git01 main.cpp
         TestClass.cpp
         TestClass.h
         OtraClase.cpp
-        OtraClase.h)
+        OtraClase.h
+        ClaseAlamilla.cpp
+        ClaseAlamilla.h)
